@@ -14,8 +14,13 @@ sensor_id:	Only for OpendataSensor. Those are the sensor id
 		the weather sensor (DHT22) respectively.
 """
 
+
 SENSORS = [
-{'thing_id':"mos2s.hercules.set1.multisensor1",'scope_id':'other.mos2s.hercules.set1','sensor_type':1,'sensor_url':'https://www.airvisual.com/api/v2/node/rsoSGy2nRr6DrtN75'},{'thing_id':"mos2s.hercules.set1.multisensor2",'scope_id':'other.mos2s.hercules.set1','sensor_type':1,'sensor_url':'https://www.airvisual.com/api/v2/node/orvbSTSMgYeaQteC4'},{'thing_id':"mos2s.hercules.set1.multisensor4",'scope_id':'other.mos2s.hercules.set1','sensor_type':1,'sensor_url':'https://www.airvisual.com/api/v2/node/E9wY3iHRNFxFRLmxv'},{'thing_id':"mos2s.hercules.set1.multisensor5",'scope_id':'other.mos2s.hercules.set1','sensor_type':1,'sensor_url':'https://www.airvisual.com/api/v2/node/vvgqW7jvdBTNvLK9D'},
+{'thing_id':"mos2s.hercules.set1.multisensor1",'scope_id':'other.mos2s.hercules.set1','sensor_type':1,'sensor_url':'https://www.airvisual.com/api/v2/node/rsoSGy2nRr6DrtN75'},
+{'thing_id':"mos2s.hercules.set1.multisensor2",'scope_id':'other.mos2s.hercules.set1','sensor_type':1,'sensor_url':'https://www.airvisual.com/api/v2/node/orvbSTSMgYeaQteC4'},
+{'thing_id':"mos2s.hercules.set1.multisensor3",'scope_id':'other.mos2s.hercules.set1','sensor_type':1,'sensor_url':'https://www.airvisual.com/api/v2/node/T3dDeSJ9rHyCqcDYs'},
+{'thing_id':"mos2s.hercules.set1.multisensor4",'scope_id':'other.mos2s.hercules.set1','sensor_type':1,'sensor_url':'https://www.airvisual.com/api/v2/node/E9wY3iHRNFxFRLmxv'},
+{'thing_id':"mos2s.hercules.set1.multisensor5",'scope_id':'other.mos2s.hercules.set1','sensor_type':1,'sensor_url':'https://www.airvisual.com/api/v2/node/vvgqW7jvdBTNvLK9D'},
 {'thing_id':"mos2s.hercules.set1.multisensor6",'scope_id':'other.mos2s.hercules.set1','sensor_type':1,'sensor_url':'https://www.airvisual.com/api/v2/node/AxnmFnCmFDnxiLwk9'},
 {'thing_id':"mos2s.hercules.set1.multisensor7",'scope_id':'other.mos2s.hercules.set1','sensor_type':1,'sensor_url':'https://www.airvisual.com/api/v2/node/jNZFyyfcoryhwWR5r'},
 {'thing_id':"mos2s.hercules.set1.multisensor8",'scope_id':'other.mos2s.hercules.set1','sensor_type':1,'sensor_url':'https://www.airvisual.com/api/v2/node/FNsutkaEyStayZrdf'},
@@ -25,3 +30,4 @@ SENSORS = [
 {'thing_id':"mos2s.hercules.set1.multisensor12",'scope_id':'other.mos2s.hercules.set1','sensor_type':1,'sensor_url':'https://www.airvisual.com/api/v2/node/WnfAqWkntSEt9mZnY'},
 
 ]
+
